@@ -26,5 +26,6 @@ Google Sheets API: Automates the updating of stats in Google Sheets.
 
 Jackson MacDonald
 [LinkedIn](https://www.linkedin.com/in/jackson-macdonald21)
+
 VanDan Patel
 [LinkedIn](https://www.linkedin.com/in/vandanpatel04/)
