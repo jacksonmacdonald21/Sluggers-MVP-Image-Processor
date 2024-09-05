@@ -21,3 +21,10 @@ NumPy: Data manipulation and processing.
 PyTesseract: Optical Character Recognition (OCR) for extracting numerical stats from screenshots.
 
 Google Sheets API: Automates the updating of stats in Google Sheets.
+
+## Authors
+
+Jackson MacDonald
+[LinkedIn](https://www.linkedin.com/in/jackson-macdonald21)
+VanDan Patel
+[LinkedIn](https://www.linkedin.com/in/vandanpatel04/)
